@@ -7,7 +7,7 @@ Tu connais des fonctions non apprises en cours et tu sais les utiliser ! Ca c’
 
 J'ai seulement une petite remarque: en sachant que ce sont des exercices simples, n’y a-t-il pas des solutions plus adaptées (exo 4 et 5) ? ;) (cf. les fonctions fournies dans la description)_
 
-Si tu souhaites quelques exercices d'algo en plus, n’hésites pas à me contacter sur Slack 🙂 !
+Si tu souhaites quelques exercices d'algo en plus, n’hésite pas à me contacter sur Slack 🙂 !
 Dans tous les cas, **très bon parcours** 🚀!
 
 ### test1/2/3/4/5.js :

@@ -3,7 +3,7 @@
 ## Commentaire global :
 
 Je te félicite d’avoir fait les 4 exercices + l'exercice bonus qui était costaud :muscle: !
-Tu as su comprendre la documentation fournis et l’appliquer à l’exercice en plus du cours 🤠.
+Tu as su comprendre la documentation fournie et l’appliquer à l’exercice en plus du cours 🤠.
 Je te recommande juste de revoir les `typeOf` et les petites subtilités de `isNaN()` ;). Des petites choses, qui, j’en suis sûr, seront très vite assimilées 🙂.
 
 Continue comme ça, tu es sur une **excellente voie** ! 🙂

@@ -7,7 +7,7 @@ J'ai vu que tu avais **envie** d'y arriver et que tu as **testé** ton code pour
 
 *N'hésite pas à t'aérer l'esprit avant d'attaquer les exercices.* 
 
-Si après lecture des annoncés, certains points t'échappent, tu peux : 
+Si après lecture des énoncés, certains points t'échappent, tu peux : 
 
 - t'aider en regardant quelques replay 🙂 (appel d'une fonction, les variables, les types), 
 - demander à faire les excercices avec d'autres étudiants, 

@@ -12,7 +12,7 @@ Excellent niveau, nettement au-dessus du niveau demandé. Mais je pense qu’il 
 
 ### student 3 :
 
-Bon niveau et élève assidu, il doit juste faire attention au nommage des variables et à faire un code plus aéré. Cela peut l’induire à faire des erreurs qui auraient pu être facilement évitées.
+Bon niveau et élève assidu, il doit juste faire attention au nommage des variables et à faire un code plus aéré. Cela peut conduire à des erreurs qui auraient pu être évitées.
 <ins>Exercice 1/2/3/4 + bonus</ins>
 
 ### student 4 :

@@ -6,6 +6,7 @@ On voit que tu réussis à appliquer certaines connaissances apprises en cours (
 J'ai vu que tu avais **envie** d'y arriver et que tu as **testé** ton code pour mieux le comprendre :muscle: !
 
 *N'hésite pas à t'aérer l'esprit avant d'attaquer les exercices.* 
+
 Si après lecture des annoncés, certains points t'échappent, tu peux : 
 
 - t'aider en regardant quelques replay 🙂 (appel d'une fonction, les variables, les types), 
